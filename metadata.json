@@ -1,0 +1,6 @@
+{
+  "name": "Airtime International Travel Agency",
+  "description": "Pioneer travel service provider in Takht Bhai, Pakistan specializing in Umrah packages, airline ticketing, Saudi visa processing, and medical appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
